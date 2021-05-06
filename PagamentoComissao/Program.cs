@@ -59,6 +59,7 @@ namespace PagamentoComissao
                 }
             }
 
+            Console.WriteLine("SE SUPERAR AQUI E AGORA");
 
             Console.WriteLine();
             foreach(Vendedor obj in vendedor)
