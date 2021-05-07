@@ -60,7 +60,7 @@ namespace PagamentoComissao
             }
 
             Console.WriteLine("SE SUPERAR AQUI E AGORA");
-
+            Console.WriteLine("O FIM DE TUDO PERTECE A DEUS");
             Console.WriteLine();
             foreach(Vendedor obj in vendedor)
             {
